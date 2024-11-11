@@ -10,9 +10,9 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Portfolio of Brayan Suarez - Software Developer",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "Soy Brayan Suárez, programador apasionado por la tecnología y la resolución de problemas. Especializado en JavaScript, TypeScript, Node.js, React, Next.js y AWS, disfruto desarrollar aplicaciones web para hacer la web más accesible. Estoy abierto a oportunidades que se alineen con mis habilidades e intereses.",
 };
 
 export default function RootLayout({ children }) {
